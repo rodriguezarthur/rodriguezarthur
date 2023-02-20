@@ -11,6 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### My Stats :
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodriguezarthur&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezarthur)](https://github.com/anuraghazra/github-readme-stats)
