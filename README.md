@@ -13,4 +13,4 @@
 
 ### My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=rodriguezarthur
+[![GitHub Streak]https://github-readme-streak-stats.herokuapp.com/?user=rodriguezarthur
