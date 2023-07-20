@@ -18,6 +18,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,angular,ocaml,bash"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postgres,postman,androidstudio"/>
   </a>
 </p>
