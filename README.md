@@ -35,4 +35,7 @@
   <a href="https://www.linkedin.com/in/arthur-rodriguez-681997283/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  <a href="https://www.instagram.com/arthur_rdgz_">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </p>
