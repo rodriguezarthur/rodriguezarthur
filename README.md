@@ -13,6 +13,11 @@
 
 :robot: I'm interested in machine learning, AI, and basically anything around algorithms or data science.
 
-# :keyboard: Languages
+# 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,bash)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,angular,ocaml,bash"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postgres,postman,androidstudio"/>
+  </a>
+</p>
