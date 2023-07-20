@@ -29,3 +29,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postgres,postman,androidstudio"/>
   </a>
 </p>
+
+# 📱 Let's connect !
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-rodriguez-681997283/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
