@@ -1,3 +1,4 @@
+![banner](https://learn.microsoft.com/en-us/events/learn-events/learnlive-automate-azure-deployments-bicep-github-actions/media/learnlive-banner-2022b.png)
 ### Hi there 👋
 
 ### About Me :
