@@ -15,6 +15,4 @@
 
 # :keyboard: Languages
 
-<div>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg"/>&nbsp;
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,bash)](https://skillicons.dev)
