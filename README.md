@@ -1,6 +1,6 @@
 ![banner](https://learn.microsoft.com/en-us/events/learn-events/learnlive-automate-azure-deployments-bicep-github-actions/media/learnlive-banner-2022b.png)
 
-<div style="display: flex; align=center">
+<div align="center">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=rodriguezarthur&theme=github_dark&hide=stars,contribs">
 </div>
 
