@@ -8,3 +8,7 @@
 </div>
 
 # :wave: About me
+
+:bulb: Hi I'm Arthur, a french student at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/).
+
+:robot: I'm interested in machine learning, AI, and basically anything around algorithms or data science.
