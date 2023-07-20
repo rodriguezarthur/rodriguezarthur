@@ -3,9 +3,6 @@
 <div align="center">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=rodriguezarthur&theme=github_dark&hide=stars,contribs&border_color=00008b">
 </div>
-<div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezarthur&layout=compact&theme=dark&border_color=00008b">
-</div>
 
 # :wave: About me
 
@@ -20,6 +17,10 @@
     <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,angular,ocaml,bash"/>
   </a>
 </p>
+
+<div align="center">
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezarthur&layout=compact&theme=dark&border_color=00008b">
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
