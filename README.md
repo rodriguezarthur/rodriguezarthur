@@ -1,4 +1,3 @@
-![banner](https://www.lebigdata.fr/wp-content/uploads/2017/06/machine-learning-et-big-data.jpg)
 ### Hi there 👋
 
 ### About Me :
