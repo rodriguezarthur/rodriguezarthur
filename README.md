@@ -21,7 +21,7 @@
 <div align="center">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezarthur&layout=compact&theme=dark&border_color=00008b">
 </div>
-
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postgres,postman,androidstudio"/>
