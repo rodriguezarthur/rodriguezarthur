@@ -1,41 +1,17 @@
-![banner](https://learn.microsoft.com/en-us/events/learn-events/learnlive-automate-azure-deployments-bicep-github-actions/media/learnlive-banner-2022b.png)
+# Hey, I'm Arthur 👋
 
-<div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=rodriguezarthur&theme=github_dark&hide=stars,contribs&border_color=00008b">
-</div>
+AI Engineer building production ML systems at Monaco Digital.
 
-# :wave: About me
+## What I work on
+- 🤖 LLM-powered chatbots with RAG (Milvus, LangChain)
+- 🎥 Video analysis with fine-tuned Vision-Language Models
+- 🏗️ End-to-end ML pipelines: training → serving → monitoring
+- 🐳 Containerized deployments on Azure
 
-:bulb: Hi I'm Arthur, a french student at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/).
+## Tech Stack
+Python • PyTorch • Hugging Face • LangChain • Docker • Azure • FastAPI • Milvus
 
-:robot: I'm interested in machine learning, AI, and basically anything around algorithms or data science.
-
-# 🛠️ Languages & Tools
-
-<div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezarthur&layout=compact&theme=dark&border_color=00008b">
-</div>
-
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,angular,ocaml,bash"/>
-  </a>
-</p>
-
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postgres,postman,androidstudio"/>
-  </a>
-</p>
-
-# 📱 Let's connect !
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthur-rodriguez-681997283/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/arthur_rdgz_">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-</p>
+## Featured Projects
+→ [rag-pipeline-template](link) - Production-ready RAG pipeline
+→ [llm-eval-toolkit](link) - LLM evaluation & benchmarking framework
+→ [ml-serving-docker](link) - Docker templates for ML model serving
