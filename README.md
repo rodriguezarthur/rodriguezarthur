@@ -12,6 +12,4 @@ AI Engineer building production ML systems at Monaco Digital.
 Python • PyTorch • Hugging Face • LangChain • Docker • Azure • FastAPI • Milvus
 
 ## Featured Projects
-→ [rag-pipeline-template](link) - Production-ready RAG pipeline
-→ [llm-eval-toolkit](link) - LLM evaluation & benchmarking framework
-→ [ml-serving-docker](link) - Docker templates for ML model serving
+
